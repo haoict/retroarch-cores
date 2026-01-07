@@ -44,7 +44,6 @@
 2022-08-27 6ee104c4 tic80_libretro.so.zip
 2022-09-17 667caffa vemulator_libretro.so.zip
 2022-11-25 3b0439ec yabause_libretro.so.zip
-2023-05-05 3f9a6956 easyrpg_libretro.so.zip
 2023-07-31 9ca2aa1a desmume2015_libretro.so.zip
 2023-08-02 6fd1b681 mesen_libretro.so.zip
 2023-10-20 188fa263 parallel_n64_libretro.so.zip
@@ -167,3 +166,4 @@
 2025-12-08 a077d02d geolith_libretro.so.zip
 2025-12-08 d92c7725 np2kai_libretro.so.zip
 2025-12-08 814a1413 onscripter_libretro.so.zip
+2026-01-07 b3cb608d easyrpg_libretro.so.zip
