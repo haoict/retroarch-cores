@@ -65,7 +65,6 @@
 2024-10-25 8e4f11ba crocods_libretro.so.zip
 2024-10-25 c3a7d7b7 opera_libretro.so.zip
 2024-11-28 a998962b ppsspp_libretro.so.zip
-2024-12-06 985b1640 applewin_libretro.so.zip
 2024-12-06 ec52dc07 neocd_libretro.so.zip
 2024-12-13 c3f301e7 mgba_rumble_libretro.so.zip
 2024-12-14 c3f301e7 mgba_libretro.so.zip
@@ -168,3 +167,4 @@
 2025-12-08 814a1413 onscripter_libretro.so.zip
 2026-01-07 b3cb608d easyrpg_libretro.so.zip
 2026-01-19 b608bce7 libgametank_libretro.so.zip
+2026-01-25 2175b900 applewin_libretro.so.zip
